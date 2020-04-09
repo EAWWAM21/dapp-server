@@ -1,0 +1,9 @@
+{
+  "name": "dapp-server",
+  "version": "0.0.1",
+  "description": "Dapp服务端",
+  "main": "truffle-config.js",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.5.0"
+  }
+}
